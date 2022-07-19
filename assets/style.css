@@ -1,0 +1,40 @@
+
+*{
+    width: 98%;
+    height: 10px;
+    list-style: none;
+    top: 0px;
+}
+
+.contact{
+   
+    display: flex;
+}
+.sosial{
+    
+    display: flex;
+}
+.main{
+    position: relative;
+    display: flex;
+    
+    
+}
+.nav{
+    display: flex;
+}
+.home{
+   padding: 40px;
+    display: flex;
+}
+.polo{
+    position: relative;
+    padding: 30px;
+    left: 50px;
+    font-size: xx-large;
+    font-display: bold;
+}
+.search{
+    display: flex;
+}
+
